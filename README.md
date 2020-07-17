@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-I am not afraid to learn a new programming language, and my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
+I am not afraid to learn a new programming language and skills. Also my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
 
 ### Interest
 - Web Development(SpringFramework, React-Node.js.etc)
