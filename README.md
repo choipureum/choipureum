@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello, I am a student who dreams of becoming a developer.
 
 <div align=left>
 
@@ -6,15 +6,39 @@
 
 </div>
 
-### Developer
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
+### About me
+I am not afraid to learn a new programming language, and my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
+- Web Development(SpringFramework, React-Node.js.etc)
+- MachineLearning with Python, Data Science
+- Google Go Language Study
 - Leadership, Mentoring, Writing, Presentation
+- PPT
 
+### Skills
+- Java
+- SQL(ORACLE, MySQL)
+- HTML,CSS,JS(Jquery..etc)
+- Python
+- React
+- AndroidStudio
+
+### Project
+ <table>
+    <tr>
+      <td>No</td>
+      <td>Name</td>
+      <td>Description</td>
+      <td>Stack</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>또링</td>
+    <td>소프트웨어 융합 캡스톤디자인2 튜터링매칭 웹 프로젝트</td>
+    <td>'SpringFramework','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript'</td>
+  </tr>
+  </table>
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
