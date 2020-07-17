@@ -50,6 +50,12 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
     <td>KH정보교육원 4팀 <다솜> 🐕유기견 입양 플랫폼 웹페이지 프로젝트</td>
     <td>'JSP / SQL / JSTL / JAVA / AJAX / JQUERY / HTML/CSS / JAVASCRIPT','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript'</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Movie2020-react-nodejs-app</td>
+    <td>넷플릭스와 같은 영화 웹사이트 클론코딩</td>
+    <td>Node.js, React, HTML/CSS </td>
+  </tr>
   </table>
 
 <!--
