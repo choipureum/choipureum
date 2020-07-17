@@ -1,4 +1,4 @@
-### 👋 Hello, I am a student who dreams of becoming a developer.
+### 👋 Hello, I am a student who dreams of becoming a Developer.
 
 <div align=left>
 
