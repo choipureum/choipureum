@@ -11,6 +11,11 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
 </div>
+## My values
+  - :fire::Passion and Enjoying
+  - :question:Beginner's mindest and curiosity
+  - :speech_balloon:Shared Opinion and Consensus
+  - :rocket:Always try and I grow
 
 ## Interest
 - Web Development(SpringFramework, React-Node.js.etc)
@@ -18,7 +23,6 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 - Algorithms and CodingTest
 - MachineLearning with Python, Data Science
 - Google Go Language Study
-- Leadership, Co-work, Passion, Enjoy
 - Social Contribution
 - PPT
 
