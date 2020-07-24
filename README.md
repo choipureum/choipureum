@@ -19,7 +19,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 - Web Development(SpringFramework, React-Node.js.etc)
 - MachineLearning with Python, Data Science
 - Google Go Language Study
-- Leadership, Mentoring, Writing, Presentation
+- Leadership, Co-work, Passion, Enjoy
 - PPT
 
 ### Skills
@@ -55,6 +55,13 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
     <td>Movie2020-react-nodejs-app</td>
     <td>넷플릭스와 같은 영화 웹사이트 클론코딩</td>
     <td>Node.js, React, HTML/CSS </td>
+  </tr>
+  </table>
+   <tr>
+    <td>4</td>
+    <td>COVID-19 Project</td>
+    <td>코로나19 종합관리 웹 프로젝트</td>
+    <td>'SpringFramework','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript',AWS</td>
   </tr>
   </table>
 
