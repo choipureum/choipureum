@@ -3,7 +3,7 @@
 👋 Hello, I am a student who dreams of becoming a growing Developer every day.
 I am not afraid to learn a new programming language and skills. Also my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
 <details>
-<summary>:heavy_minus_sign:한글소개 펼치기</summary>
+<summary>:heavy_minus_sign::heavy_minus_sign:한글소개 펼치기:heavy_minus_sign::heavy_minus_sign:</summary>
 <div>
 👋 안녕하십니까 최푸름입니다.
 </div>
