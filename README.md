@@ -18,6 +18,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 ### Interest
 - Web Development(SpringFramework, React-Node.js.etc)
   --> BackEnd, Server, FrontEnd
+- Algorithms and CodingTest
 - MachineLearning with Python, Data Science
 - Google Go Language Study
 - Leadership, Co-work, Passion, Enjoy
