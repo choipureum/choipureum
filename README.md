@@ -13,10 +13,10 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 </div>
 
 ## My values
-  - :fire::Passion and Enjoying
-  - :question:Beginner's mindest and curiosity
-  - :speech_balloon:Shared Opinion and Consensus
-  - :rocket:Always try and I grow
+  - :fire: Passion and Enjoying
+  - :question: Beginner's mindest and curiosity
+  - :speech_balloon: Shared Opinion and Consensus
+  - :rocket: Always try and I grow
 
 ## Interest
 - Web Development(SpringFramework, React-Node.js.etc)
