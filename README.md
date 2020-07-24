@@ -2,6 +2,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) <br>
 👋 Hello, I am a student who dreams of becoming a growing Developer every day.
 I am not afraid to learn a new programming language and skills. Also my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
+<details>
+<summary>한글소개 펼치기</summary>
+<div>
+👋 안녕하십니까 최푸름입니다.
+</div>
+</details>
+
 
 ## Get In Touch
 <div align=left>
