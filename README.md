@@ -1,23 +1,18 @@
-# Pureum Choi-@
+# Pureum Choi-@코딩배우는학생
+👋 Hello, I am a student who dreams of becoming a growing Developer every day.
+I am not afraid to learn a new programming language and skills. Also my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
 
-### 👋 Hello, I am a student who dreams of becoming a growing Developer every day.
-
+## Get In Touch
 <div align=left>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 <div align=left>
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pu_rumm/)](https://www.instagram.com/data.scientist/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 </div>
-
 </div>
 
-### About me
-I am not afraid to learn a new programming language and skills. Also my hobby is coding. I am very interested in web development, and graduated from Hanyang University majoring in new industry software. A novice developer who wants to break away from student status and start a new challenge in a new place.
-
-### Interest
+## Interest
 - Web Development(SpringFramework, React-Node.js.etc)
   --> BackEnd, Server, FrontEnd
 - Algorithms and CodingTest
@@ -27,7 +22,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 - Social Contribution
 - PPT
 
-### Skills
+## Skills
 - Java
 - SQL(ORACLE, MySQL)
 - HTML,CSS,JS(Jquery..etc)
@@ -35,7 +30,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 - React
 - AndroidStudio
 
-### Project
+## Project
  <table>
     <tr>
       <td>No</td>
