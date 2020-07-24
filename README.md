@@ -55,8 +55,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
     <td>Movie2020-react-nodejs-app</td>
     <td>넷플릭스와 같은 영화 웹사이트 클론코딩</td>
     <td>Node.js, React, HTML/CSS </td>
-  </tr>
-  </table>
+  </tr> 
    <tr>
     <td>4</td>
     <td>COVID-19 Project</td>
