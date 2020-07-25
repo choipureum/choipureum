@@ -14,7 +14,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 </div>
 </details>
 <br>
-<b>수상 및 활동이력</b><br>
+<p><b>수상 및 활동이력</b><p>
 
 ><ul>
 >  <li>제2회 SK 해피노베이터 '나눔인재상' 수상 (2014.07)</li>
@@ -24,7 +24,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 >  <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
 ></ul>
  
-<b>봉사활동 및 해외경험</b>
+<p><b>봉사활동 및 해외경험</b></p>
 ><ul>
 > <li>SK SUNNY LeaderGroup 10기 (2014.1~2014.12)</li>
 > <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
