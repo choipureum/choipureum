@@ -25,6 +25,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 ></ul>
  
 <p><b>봉사활동 및 해외경험</b></p>
+
 ><ul>
 > <li>SK SUNNY LeaderGroup 10기 (2014.1~2014.12)</li>
 > <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
