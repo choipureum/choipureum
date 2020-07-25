@@ -58,14 +58,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 
 
 ## Languages and Tools
-- Java
-- SQL(ORACLE, MySQL)
-- HTML,CSS,JS(Jquery..etc)
-- git(형상관리툴)
-- Python
-- React
-- AndroidStudio
-
+<div float:left>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -74,7 +67,17 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+</div>
+- Java
+- SQL(ORACLE, MySQL)
+- HTML,CSS,JS(Jquery..etc)
+- git(형상관리툴)
+- Python
+- React
+- AndroidStudio
+
+
 
 ## Project
  <table>
