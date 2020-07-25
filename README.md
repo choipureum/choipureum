@@ -18,7 +18,8 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
   <li>제2회 SK 해피노베이터 '나눔인재상'수상</li>
   <li>SK 행복나눔재단 인턴(2014.08~2015.02)</li>
   <li>한양대학교 소프트웨어 융합 캡스톤디자인 경진대회 최우수</li>
-  <li>제6회 삼성전자 대학생 프로그래밍 경진대회 SCPC(2020.08)</li>
+  <li>제6회 삼성전자 대학생 프로그래밍 경진대회 SCPC (2020.08)</li>
+  <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
  </ul>
 
 
