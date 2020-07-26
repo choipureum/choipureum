@@ -62,7 +62,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 - Java
 - SQL(ORACLE, MySQL)
 - HTML,CSS,JS(Jquery..etc)
-- git(형상관리툴)
+- Git(형상관리툴)
 - Python
 - React
 - AndroidStudio
