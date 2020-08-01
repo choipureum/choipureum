@@ -52,6 +52,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
   --> BackEnd, Server, FrontEnd
 - Algorithms and CodingTest
 - Social Contribution
+- Linux
 - PPT
 - MachineLearning with Python, Data Science
 - Google Go Language Study
