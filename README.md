@@ -104,17 +104,18 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
     <td>'JSP / SQL / JSTL / JAVA / AJAX / JQUERY / HTML/CSS / JAVASCRIPT','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript'</td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>Movie2020-react-nodejs-app</td>
-    <td>넷플릭스와 같은 영화 웹사이트 클론코딩</td>
-    <td>Node.js, React, HTML/CSS </td>
-  </tr> 
-   <tr>
     <td>4</td>
     <td>COVID-19-web-app-project</td>
     <td>코로나19 종합관리 웹 프로젝트(진행중)</td>
     <td>'SpringFramework','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript',AWS</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Movie2020-react-nodejs-app</td>
+    <td>넷플릭스와 같은 영화 웹사이트 클론코딩</td>
+    <td>Node.js, React, HTML/CSS </td>
+  </tr> 
+  
   </table>
 
 
