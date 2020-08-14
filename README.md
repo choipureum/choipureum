@@ -54,9 +54,9 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 - Algorithms and CodingTest
 - Social Contribution
 - Linux
-- PPT
 - MachineLearning with Python, Data Science
 - Google Go Language Study
+- PPT,Word
 
 
 ## Languages and Tools
