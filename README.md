@@ -15,6 +15,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 </div>
 </details>
 <br>
+
 <p><b>:trophy:수상 및 활동이력</b></p>
 
 ><ul>
