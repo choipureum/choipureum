@@ -16,7 +16,6 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 </div>
 </details>
 <br>
-
 <p><b>:trophy:수상 및 활동이력</b></p>
 <ul>
   <li>제2회 SK 해피노베이터 '나눔인재상' 수상 (2014.07)</li>
