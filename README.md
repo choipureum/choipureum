@@ -5,7 +5,6 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 <details>
 <summary>한글소개 펼치기:cherry_blossom:</summary>
 <div>
- 
  <br>
 👋 신입 웹개발자를 꿈꾸는 코딩배우는 학생 최푸름입니다. <br>
 한양대학교에서 신산업 소프트웨어를 전공했으며 휴일에도 코딩을 할 만큼 코딩에 대한 열정을 가지고 있습니다. 새로운 언어를 배우고 도전하는 것에 흥미를 느끼며 즐기는 편입니다.(요즘에는 알고리즘과 리눅스를 공부합니다) <br><br>
