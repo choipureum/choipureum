@@ -106,7 +106,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
   <tr>
     <td>4</td>
     <td>COVID-19-web-app-project</td>
-    <td>코로나19 종합관리 웹 프로젝트(진행중)</td>
+    <td>코로나19 종합관리 웹 프로젝트</td>
     <td>'SpringFramework','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript',AWS</td>
   </tr>
   <tr>
