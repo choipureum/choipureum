@@ -13,6 +13,7 @@ I am not afraid to learn a new programming language and skills. Also my hobby is
 <br>
 <p><b>:trophy:수상 및 활동이력</b></p>
 <ul>
+  <li>iMBC SW개발 직군 재직중(2020.11.02~ )</li>
   <li>제2회 SK 해피노베이터 '나눔인재상' 수상 (2014.07)</li>
   <li>SK 행복나눔재단 인턴 (2014.08~2015.02)</li>
   <li>한양대학교 소프트웨어 융합 캡스톤디자인 경진대회 최우수 (2020.06)</li>
