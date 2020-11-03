@@ -44,12 +44,11 @@
   - :rocket: Always try and I grow
 
 ## Interest
-- Web Development(SpringFramework, React-Node.js.etc)
+- Web Development
   --> BackEnd, Server, FrontEnd
 - Algorithms and CodingTest
 - Social Contribution
 - Linux
-- MachineLearning with Python, Data Science
 - Google Go Language Study
 - PPT,Word
 
@@ -63,7 +62,6 @@
 - Python
 - React
 - AndroidStudio
-- Nexacro
 
 <div float:left>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
