@@ -1,4 +1,4 @@
-# Choi Pureum-@코딩배우는학생
+# Choi Pureum
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choipureum)](https://hits.seeyoufarm.com) <br>
 👋 Hello
 <details>
@@ -77,39 +77,6 @@
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 </div>
 
-
-
-## Project
- <table>
-    <tr>
-      <td>No</td>
-      <td>Name</td>
-      <td>Description</td>
-      <td>Stack</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>또링</td>
-    <td>소프트웨어 융합 캡스톤디자인2 튜터링매칭 웹 프로젝트</td>
-    <td>'SpringFramework','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript'</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Abandoned_Dogs_Save_Project</td>
-    <td>KH정보교육원 4팀 <다솜> 🐕유기견 입양 플랫폼 웹페이지 프로젝트</td>
-    <td>'JSP / SQL / JSTL / JAVA / AJAX / JQUERY / HTML/CSS / JAVASCRIPT','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript'</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>COVID-19-web-app-project</td>
-    <td>코로나19 종합관리 웹 프로젝트</td>
-    <td>'SpringFramework','Tomcat9.0','Java','ORACLE','HTML,CSS,Javascript',AWS</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Movie2020-react-nodejs-app</td>
-    <td>넷플릭스와 같은 영화 웹사이트 클론코딩</td>
-    <td>Node.js, React, HTML/CSS </td>
   </tr> 
   
   </table>
