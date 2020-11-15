@@ -36,25 +36,25 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
 </div>
-
+<!--
 ## My values
   - :fire: Passion and Enjoying
   - :question: Beginner's mindest and curiosity
   - :speech_balloon: Shared Opinion and Consensus
   - :rocket: Always try and I grow
-
+<!--
 ## Interest
 - Web Development
-  --> BackEnd, Server, FrontEnd
+  -> BackEnd, Server, FrontEnd
 - Algorithms and CodingTest
 - Social Contribution
 - Linux
 - Google Go Language Study
 - PPT,Word
 
-
+<!--
 ## Languages and Tools
-
+<!--
 - Java
 - SQL(ORACLE, MySQL)
 - HTML,CSS,JS(Jquery..etc)
@@ -62,7 +62,7 @@
 - Python
 - React
 - AndroidStudio
-
+<!--
 <div float:left>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
