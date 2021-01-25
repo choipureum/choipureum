@@ -1,10 +1,8 @@
 # Choi Pureum
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choipureum)](https://hits.seeyoufarm.com) <br>
-👋 Hello
-
 
 <div>
-👋 코딩배우는 학생 최푸름입니다.:cherry_blossom: <br>
+👋  Hello 코딩배우는 학생 최푸름입니다.:cherry_blossom: <br>
 한양대학교에서 신산업 소프트웨어를 전공했으며 현재 iMBC SW개발 직군에서 재직중입니다.
 </div>
 
