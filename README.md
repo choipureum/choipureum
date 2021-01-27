@@ -44,7 +44,7 @@
       <th>Description</th>
     </thead>
     <tr>
-      <td><b>MBC 모바일 <알림PR></b></td>
+      <td><b>MBC 모바일<br><알림PR></b></td>
       <td>http://with.mbc.co.kr/m/index.html<br>
           http://with.mbc.co.kr/m/pr/notice/index.html<br>
           http://with.mbc.co.kr/m/pr/press/index.html<br>
@@ -57,7 +57,7 @@
       </td>
     </tr>
      <tr>
-      <td><b>MBC 정오의 희망곡 차트 관리자Page</b></td>
+      <td><b>MBC <br>정오의 희망곡 차트 <br>관리자Page</b></td>
       <td>http://rankingchart.imbc.com/.../.aspx</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
       <td>Flash ImageUpload 대체 및 file삭제 로직 개선</td>
