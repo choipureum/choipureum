@@ -44,20 +44,20 @@
       <th>Description</th>
     </thead>
     <tr>
-      <td><b>MBC 모바일   <알림PR></b></td>
+      <td><b>MBC 모바일 &nbsp;&nbsp;&nbsp;  <알림PR></b></td>
       <td>http://with.mbc.co.kr/m/index.html<br>
           http://with.mbc.co.kr/m/pr/notice/index.html<br>
           http://with.mbc.co.kr/m/pr/press/index.html<br>
           http://with.mbc.co.kr/m/pr/photo/index.html</td>
       <td>ASP .NET, MSSQL , js, MVC </td>
-      <td>mbcinfo.imbc.com API개발<br>
-          with.mbc.co.kr -> ajax mbcinfo.js , mbcinfoUI.js 개발
-          Photo View Page LageLoading,
+      <td>mbcinfo.imbc.com / Mobile API개발<br>
+          with.mbc.co.kr -> mbcinfo.js , mbcinfoUI.js 개발
+          Photo View Page lazyLoading,
           Photo List 성능 개선을 위해 ImageResizer를 통한 성능 개선
       </td>
     </tr>
      <tr>
-      <td><b>MBC    정오의 희망곡 차트 <br>관리자Page</b></td>
+      <td><b>MBC &nbsp;&nbsp;&nbsp;   정오의 희망곡 차트 <br>관리자Page</b></td>
       <td>http://rankingchart.imbc.com/.../.aspx</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
       <td>Flash ImageUpload 대체 및 file삭제 로직 개선</td>
