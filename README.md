@@ -44,7 +44,7 @@
       <th>Description</th>
     </thead>
     <tr>
-      <td><b>MBC &nbsp;&nbsp;&nbsp;모바일  &nbsp;&nbsp;&nbsp;  <알림PR></b></td>
+      <td><b>MBC모바일&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<알림PR></b></td>
       <td>http://with.mbc.co.kr/m/index.html<br>
           http://with.mbc.co.kr/m/pr/notice/index.html<br>
           http://with.mbc.co.kr/m/pr/press/index.html<br>
