@@ -38,7 +38,7 @@
 <div align=left>
   <table>
     <thead>
-      <th>Project name</th>
+      <th colspan=7>Project name</th>
       <th>URL</th>
       <th>Stack</th>
       <th>Description</th>
