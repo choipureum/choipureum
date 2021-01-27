@@ -57,7 +57,7 @@
       </td>
     </tr>
      <tr>
-      <td><b>MBC 정오의 희망곡 차트 관리자 Page</b></td>
+      <td><b>MBC [정오의 희망곡]: 차트 관리자 Page</b></td>
       <td>http://rankingchart.imbc.com/.../.aspx</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
       <td>Flash ImageUpload 대체 및 file 삭제 로직 개선</td>
