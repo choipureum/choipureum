@@ -33,6 +33,31 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
 </div>
+
+## Project
+<div align=left>
+  <table>
+    <thead>
+      <th>Project name</th>
+      <th>URL</th>
+      <th>Stack</th>
+      <th>Description</th>
+    </thead>
+    <tr>
+      <td>MBC 모바일 <알림PR></td>
+      <td>http://with.mbc.co.kr/m/index.html<br>
+          http://with.mbc.co.kr/m/pr/notice/index.html<br>
+          http://with.mbc.co.kr/m/pr/press/index.html<br>
+          http://with.mbc.co.kr/m/pr/photo/index.html</td>
+      <td>ASP .NET, MSSQL , js</td>
+      <td>mbcinfo.imbc.com API개발<br>
+          with.mbc.co.kr -> ajax mbcinfo.js , mbcinfoUI.js 개발
+          Photo View Page LageLoading,
+          Photo List 성능 개선을 위해 ImageResizer를 통한 성능 개선
+      </td>
+    </tr>
+  </table>
+</div>  
 <!--
 ## My values
   - :fire: Passion and Enjoying
@@ -59,7 +84,7 @@
 - Python
 - React
 - AndroidStudio
-
+<!--
 <div float:left>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -72,8 +97,6 @@
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 </div>
 
-  </tr> 
-  
-  </table>
+
 
 
