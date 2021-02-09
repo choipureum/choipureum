@@ -26,6 +26,8 @@
    <li>Linux Master 2급</li>
    <li>SQLP 준비중</li>   
  </ul>
+ <br>
+ 
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 
 <ul>
