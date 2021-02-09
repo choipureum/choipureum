@@ -17,7 +17,15 @@
   <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
   <li>"" 개발 Crew 준비중</li>
 </ul>
- 
+
+<br>
+<p><b>:memo:certificate</b></p>
+ <ul>
+   <li>정보처리기사</li>
+   <li>SQLD</li>
+   <li>Linux Master 2급</li>
+   <li>SQLP 준비중</li>   
+ </ul>
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 
 <ul>
