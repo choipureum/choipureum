@@ -27,7 +27,7 @@
    <li>SQLP 준비중</li>   
  </ul>
  <br>
- 
+
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 
 <ul>
@@ -35,7 +35,7 @@
  <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
 </ul>
 
--->
+<!---->
 ## Get In Touch
 <div align=left>
  
