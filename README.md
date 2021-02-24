@@ -77,7 +77,7 @@
       <td><b>MBC 아카이브</b></td>
       <td>https://www.mbcarchive.com/include/default.html</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
-      <td>보수(진행중)<br>개인정보 암호화, 메일링 등</td>
+      <td>보수(진행중)<br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈 등</td>
     </tr>
   </table>
 </div>  
