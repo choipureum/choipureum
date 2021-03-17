@@ -81,6 +81,25 @@
     </tr>
   </table>
 </div>  
+
+## Toy_Project
+<div align=left>
+  <table>
+    <thead>
+      <th>Project name</th>
+      <th>URL</th>
+      <th>Stack</th>
+      <th>Description</th>
+    </thead>
+    <tr>
+      <td>Crypto_Auto_Trading_Bot</td>
+      <td></td>
+      <td>Python3, C#, PyQt5 </td>
+      <td>비트코인 매매 자동화 프로그램
+      </td>
+    </tr>
+  </table>
+</div>  
 <!--
 ## My values
   - :fire: Passion and Enjoying
