@@ -92,7 +92,7 @@
       <th>Description</th>
     </thead>
     <tr>
-      <td>Crypto_Auto_Trading_Bot</td>
+      <td><b>Crypto_Auto_Trading_Bot</b></td>
       <td>https://github.com/choipureum/Crypto-AutoTrading-Bot</td>
       <td>Python3, C#, PyQt5 </td>
       <td>비트코인 매매 자동화 프로그램
