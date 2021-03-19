@@ -5,7 +5,7 @@
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
 한양대학교에서 신산업 소프트웨어를 전공했으며 현재 iMBC SW개발 직군에서 재직중입니다.
 </div>
-<!--
+
 <br>
 <p><b>:trophy:수상 및 활동이력</b></p>
 <ul>
@@ -17,16 +17,7 @@
   <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
   <li>"" 개발 Crew 준비중</li>
 </ul>
-
-<br>
-<p><b>:memo:certificate</b></p>
- <ul>
-   <li>정보처리기사</li>
-   <li>SQLD</li>
-   <li>Linux Master 2급</li>
-   <li>SQLP 준비중</li>   
- </ul>
- <br>
+<!--
 
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 
@@ -35,7 +26,7 @@
  <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
 </ul>
 
-<!---->
+-->
 ## Get In Touch
 <div align=left>
  
