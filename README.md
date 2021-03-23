@@ -92,7 +92,7 @@
      <tr>
       <td><b>Commit_Checker</b></td>
       <td>https://github.com/choipureum/CommitChecker</td>
-      <td>C# </td>
+      <td>C#,Windows Service </td>
       <td>커밋 관련 자동화 체킹 알람 서비스 제공
       </td>
     </tr>
