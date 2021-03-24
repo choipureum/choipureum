@@ -27,12 +27,12 @@
  <li>SK SUNNY LeaderGroup 10기 (2014.1~2014.12)</li>
  <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
 </ul>
-
 -->
+
 <!--
 ## Get In Touch
 <div align=left>
- 
+ -->
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pu_rumm/)](https://www.instagram.com/pu_rumm/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
