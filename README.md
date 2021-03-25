@@ -76,7 +76,7 @@
   </table>
 </div>  
 
-## Toy_Project
+## Toy Project
 <div align=left>
   <table>
     <thead>
