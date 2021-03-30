@@ -103,7 +103,7 @@
       <td><b>Multi_AutoLogon</b></td>
       <td>https://github.com/choipureum/portal-autoLogon</td>
       <td>C#, Windows Form</td>
-      <td>자주쓰는 다중 url, id, pw 저장,삭제 및 자동 프로세스 생성 && 로그인
+      <td>자주쓰는  url, id, pw 저장,삭제 및 자동 프로세스 생성 && 로그인
       </td>
     </tr>
   </table>
