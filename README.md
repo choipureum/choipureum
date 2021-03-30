@@ -88,7 +88,7 @@
     <tr>
       <td><b>Crypto_Auto_Trading_Bot</b></td>
       <td>https://github.com/IloveDev-Crew/AutoTradeBot</td>
-      <td>Python3, C#, PyQt5 </td>
+      <td>Python3, C#, Flask </td>
       <td>비트코인 매매 자동화 프로그램()
       </td>
     </tr>
@@ -97,6 +97,13 @@
       <td>https://github.com/choipureum/CommitChecker</td>
       <td>C#,Windows Service </td>
       <td>커밋 관련 자동화 체킹 알람 서비스 제공
+      </td>
+    </tr>
+    <tr>
+      <td><b>Multi_AutoLogon</b></td>
+      <td>https://github.com/choipureum/portal-autoLogon</td>
+      <td>C#, Windows Form</td>
+      <td>자주쓰는 다중 url, id, pw 저장,삭제 및 자동 프로세스 생성 && 로그인
       </td>
     </tr>
   </table>
