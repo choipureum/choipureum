@@ -49,7 +49,7 @@
       <th>Description</th>
     </thead>
     <tr>
-      <td><b>MBC 모바일: <br>PR page </b></td>
+      <td><b>MBC와 함께 M: <br>PR page </b></td>
       <td>http://with.mbc.co.kr/m/index.html<br>
           http://with.mbc.co.kr/m/pr/notice/index.html<br>
           http://with.mbc.co.kr/m/pr/press/index.html<br>
