@@ -68,7 +68,7 @@
       <td>타임라인, 관리자()</td>
     </tr>
     <tr>
-      <td><b>MBC 아카이브</b></td>
+      <td><b>MBC Archives()</b></td>
       <td>https://www.mbcarchive.com/include/default.html</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
       <td>SM & <br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈, SMS Auth 등</td>
