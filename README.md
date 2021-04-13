@@ -71,7 +71,13 @@
       <td><b>MBC 아카이브</b></td>
       <td>https://www.mbcarchive.com/include/default.html</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
-      <td>보수(진행중)<br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈, SMS Auth 등</td>
+      <td>SM & <br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈, SMS Auth 등</td>
+    </tr>
+    <tr>
+      <td><b>MBC App</b></td>
+      <td>http://m.imbc.com/</td>
+      <td>ASP .NET, MSSQL , vue.js, WebForm </td>
+      <td>타임라인, 관리자 Tool()</td>
     </tr>
   </table>
 </div>  
