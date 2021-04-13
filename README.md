@@ -49,7 +49,7 @@
       <th>Description</th>
     </thead>
     <tr>
-      <td><b>MBC와 함께 M: <br>PR page </b></td>
+      <td><b>MBC와 함께(mobile): <br>PR page </b></td>
       <td>http://with.mbc.co.kr/m/index.html<br>
           http://with.mbc.co.kr/m/pr/notice/index.html<br>
           http://with.mbc.co.kr/m/pr/press/index.html<br>
@@ -65,10 +65,10 @@
       <td><b>MBC App</b></td>
       <td>http://m.imbc.com/</td>
       <td>ASP .NET, MSSQL , vue.js, WebForm </td>
-      <td>타임라인, 관리자()</td>
+      <td>타임라인, 관리자(진행중)</td>
     </tr>
     <tr>
-      <td><b>MBC Archives()</b></td>
+      <td><b>MBC Archives(아카이브)</b></td>
       <td>https://www.mbcarchive.com/include/default.html</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
       <td>SM & <br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈, SMS Auth 등</td>
