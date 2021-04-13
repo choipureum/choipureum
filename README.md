@@ -106,6 +106,12 @@
       <td>자주쓰는  url, id, pw 저장,삭제 및 자동 프로세스 생성 && 로그인
       </td>
     </tr>
+     <tr>
+      <td><b>todo-generater</b></td>
+      <td>https://github.com/choipureum/todo-generator</td>
+      <td>C#, Vue.js</td>
+      <td>할일 생성기, 비용, 수행가능성  </td>
+    </tr>
   </table>
 </div>  
 <!--
