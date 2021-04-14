@@ -117,7 +117,7 @@
     </tr>
      <tr>
       <td><b>todo-generater</b></td>
-      <td>https://github.com/choipureum/todo-generator</td>
+      <td>https://choipureum.github.io/todo-generator/</td>
       <td>C#, Vue.js</td>
       <td>할일 생성기, 비용, 수행가능성  </td>
     </tr>
