@@ -65,7 +65,7 @@
       <td><b>MBC App</b></td>
       <td>http://m.imbc.com/</td>
       <td>ASP .NET, MSSQL , vue.js, WebForm </td>
-      <td>타임라인, 관리자(진행중)</td>
+      <td>main,타임라인, 관리자(진행중)</td>
     </tr>
     <tr>
       <td><b>MBC Archives(아카이브)</b></td>
