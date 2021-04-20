@@ -128,10 +128,10 @@
       <td>할일 생성기, 비용, 수행가능성  </td>
     </tr>
        <tr>
-      <td><b>Coin Monitoring Chrome Extension Program</b></td>
+      <td><b>Coin Monitoring</b></td>
       <td>https://github.com/choipureum/Coin_Monitoring_ChromeExtension_Program</td>
       <td>javascript, html5, css3</td>
-      <td>코인 시세조회 Chrome 확장 </td>
+      <td>Chrome Extension Program 코인 시세조회 </td>
     </tr>
   </table>
 </div>  
