@@ -129,7 +129,7 @@
     </tr>
       <tr>
       <td><b>Coin Monitoring Chrome Extension Program</b></td>
-      <td style="font-size:10px">https://github.com/choipureum/Coin_Monitoring_ChromeExtension_Program</td>
+      <td>choipureum/Coin_Monitoring_ChromeExtension_Program</td>
       <td>javascript, html5, css3</td>
       <td> 코인 시세조회 Chrome 확장 프로그 </td>
     </tr>
