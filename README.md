@@ -64,8 +64,8 @@
     <tr>
       <td><b>MBC App 전체 개편</b></td>
       <td>http://m.imbc.com/</td>
-      <td>ASP .NET, MSSQL , vue.js, WebForm </td>
-      <td>main,타임라인, 관리자(진행중)</td>
+      <td>ASP .NET, MSSQL , Vue.js, WebForm, html, css </td>
+      <td>main,타임라인, Auto 실행 모듈, 관리자(진행중)</td>
     </tr>
     <tr>
       <td><b>MBC Archives(아카이브)</b></td>
