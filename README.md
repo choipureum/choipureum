@@ -1,5 +1,7 @@
 
-# Choi Pureum
+# Server Developer : Choi Pureum
+- Server Developer in MBC(television and radio network companies) 
+- I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choipureum)](https://hits.seeyoufarm.com) <br>
 ## My values
@@ -10,12 +12,11 @@
 
 ## Interest
 - Web Development
-  -> BackEnd, Server, FrontEnd
-- Algorithms and CodingTest
+  -> BackEnd, Server, FrontEnd(Vue.js)
+- Algorithms 
 - Social Contribution
-- Linux
-- Google Go Language Study
-- PPT,Word
+- New Tech
+- Presentation, Blog, Git
 
 
 
