@@ -1,7 +1,24 @@
-<!--
+
 # Choi Pureum
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choipureum)](https://hits.seeyoufarm.com) <br>
+## My values
+  - :fire: Passion and Enjoying
+  - :question: Beginner's mindest and curiosity
+  - :speech_balloon: Shared Opinion and Consensus
+  - :rocket: Always try and I grow
+
+## Interest
+- Web Development
+  -> BackEnd, Server, FrontEnd
+- Algorithms and CodingTest
+- Social Contribution
+- Linux
+- Google Go Language Study
+- PPT,Word
+
+
+
 <!--
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
@@ -135,21 +152,7 @@
     </tr>
   </table>
 </div>  
-<!--
-## My values
-  - :fire: Passion and Enjoying
-  - :question: Beginner's mindest and curiosity
-  - :speech_balloon: Shared Opinion and Consensus
-  - :rocket: Always try and I grow
-<!--
-## Interest
-- Web Development
-  -> BackEnd, Server, FrontEnd
-- Algorithms and CodingTest
-- Social Contribution
-- Linux
-- Google Go Language Study
-- PPT,Word
+
 
 <!--
 ## Languages and Tools
