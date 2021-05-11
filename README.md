@@ -11,10 +11,9 @@
 
 ## Interest
 - Web Development
-  -> BackEnd, Server, FrontEnd(Vue.js)
+  -> BackEnd, Server API,Vue.js
 - Algorithms 
 - Social Contribution
-- New Tech
 - Presentation, Blog, Git
 
 
