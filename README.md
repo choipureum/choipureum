@@ -78,16 +78,22 @@
       </td>
     </tr>
     <tr>
-      <td><b>MBC App 전체 개편</b></td>
+      <td><b>MBC App</b></td>
       <td>http://m.imbc.com/</td>
-      <td>ASP .NET, MSSQL , Vue.js, WebForm, html, css </td>
-      <td>main,타임라인, Auto 실행 모듈, 관리자(진행중)</td>
+      <td>ASP .NET, MSSQL , Vue.js, html, css </td>
+      <td>main,타임라인, Auto 실행 모듈</td>
     </tr>
     <tr>
       <td><b>MBC Archives(아카이브)</b></td>
       <td>https://www.mbcarchive.com/include/default.html</td>
       <td>ASP .NET, MSSQL , js, WebForm </td>
       <td>SM & <br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈, SMS Auth 등</td>
+    </tr>
+     <tr>
+      <td><b>MBC App AdminTool</b></td>
+      <td>http://mbcappcontrol.imbc.com/</td>
+      <td>ASP .NET,C#, MSSQL</td>
+      <td>홈배너, 알림, 푸시, 생중계</td>
     </tr>
     <!--
      <tr>
