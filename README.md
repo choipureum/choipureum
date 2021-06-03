@@ -1,7 +1,8 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choipureum)](https://hits.seeyoufarm.com) <br>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pu_rumm/)](https://www.instagram.com/pu_rumm/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
-# Choi Pureum
-- Server Developer in MBC(television and radio network companies) 
-- I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.
 
 
 ░█████╗░██╗░░██╗░█████╗░██╗██████╗░██╗░░░██╗██████╗░███████╗██╗░░░██╗███╗░░░███╗
@@ -10,6 +11,11 @@
 ██║░░██╗██╔══██║██║░░██║██║██╔═══╝░██║░░░██║██╔══██╗██╔══╝░░██║░░░██║██║╚██╔╝██║
 ╚█████╔╝██║░░██║╚█████╔╝██║██║░░░░░╚██████╔╝██║░░██║███████╗╚██████╔╝██║░╚═╝░██║
 ░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚══════╝░╚═════╝░╚═╝░░░░░╚═╝
+
+
+- Server Developer in MBC(television and radio network companies) 
+- I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.
+
 <!--
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
@@ -41,10 +47,6 @@
 ## Get In Touch
 <div align=left>
  -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choipureum)](https://hits.seeyoufarm.com) <br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pu_rumm/)](https://www.instagram.com/pu_rumm/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
 </div>
 
