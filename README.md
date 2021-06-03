@@ -1,22 +1,15 @@
 
-# Server Developer : Choi Pureum
+# Choi Pureum
 - Server Developer in MBC(television and radio network companies) 
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.
 
-## My values
-  - :fire: Passion and Enjoying
-  - :question: Beginner's mindest and curiosity
-  - :speech_balloon: Shared Opinion and Consensus
-  - :rocket: Always try and I grow
 
-## Interest
-- Web Development
-  -> BackEnd, Server API,Vue.js
-- Algorithms 
-- Social Contribution
-- Presentation, Blog, Git
-
-
+░█████╗░██╗░░██╗░█████╗░██╗██████╗░██╗░░░██╗██████╗░███████╗██╗░░░██╗███╗░░░███╗
+██╔══██╗██║░░██║██╔══██╗██║██╔══██╗██║░░░██║██╔══██╗██╔════╝██║░░░██║████╗░████║
+██║░░╚═╝███████║██║░░██║██║██████╔╝██║░░░██║██████╔╝█████╗░░██║░░░██║██╔████╔██║
+██║░░██╗██╔══██║██║░░██║██║██╔═══╝░██║░░░██║██╔══██╗██╔══╝░░██║░░░██║██║╚██╔╝██║
+╚█████╔╝██║░░██║╚█████╔╝██║██║░░░░░╚██████╔╝██║░░██║███████╗╚██████╔╝██║░╚═╝░██║
+░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚══════╝░╚═════╝░╚═╝░░░░░╚═╝
 <!--
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
