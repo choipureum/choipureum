@@ -113,7 +113,7 @@
     </thead>
     <tr>
       <td><b>코로나 19관련 종합 웹페이지</b></td>
-      <td>https://github.com/COVID-19-WEB-App/COVID-19-Web-appr/</td>
+      <td>https://github.com/COVID-19-WEB-App/COVID-19-Web-app/</td>
       <td>java, Oracle, html5</td>
       <td>코로나관련 확진자 조회, 지도서비스, 정보게시판, 관련상품 구매 등 서비스 제공</td>
     </tr>
