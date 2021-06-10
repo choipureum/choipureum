@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td><b>MBC App</b></td>
-      <td>http://m.imbc.com/</td>
+      <td>http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y</td>
       <td>ASP .NET, MSSQL , Vue.js, html, css </td>
       <td>main,타임라인,Video Auto 실행 모듈, OnAir LiveStreaming, MBC뉴스, 올림픽 </td>
     </tr>
