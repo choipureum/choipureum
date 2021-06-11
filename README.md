@@ -88,7 +88,7 @@
       <td><b>MBC App AdminTool</b></td>
       <td>http://mbcappcontrol.imbc.com/</td>
       <td>ASP .NET,C#, MSSQL</td>
-      <td>홈배너, 알림, 푸시, 생중계 </td>
+      <td>홈배너, 다시보기, 푸시알림, 생중계 관리, 관리자 설정</td>
     </tr>
     <!--
      <tr>
