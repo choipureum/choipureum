@@ -4,15 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
 
-
-██████╗░██╗░░░██╗██████╗░███████╗██╗░░░██╗███╗░░░███╗  ░█████╗░██╗░░██╗░█████╗░██╗
-██╔══██╗██║░░░██║██╔══██╗██╔════╝██║░░░██║████╗░████║  ██╔══██╗██║░░██║██╔══██╗██║
-██████╔╝██║░░░██║██████╔╝█████╗░░██║░░░██║██╔████╔██║  ██║░░╚═╝███████║██║░░██║██║
-██╔═══╝░██║░░░██║██╔══██╗██╔══╝░░██║░░░██║██║╚██╔╝██║  ██║░░██╗██╔══██║██║░░██║██║
-██║░░░░░╚██████╔╝██║░░██║███████╗╚██████╔╝██║░╚═╝░██║  ╚█████╔╝██║░░██║╚█████╔╝██║
-╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚══════╝░╚═════╝░╚═╝░░░░░╚═╝  ░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝
-
-
 - Server Developer in MBC(television and radio network companies) 
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.
 
