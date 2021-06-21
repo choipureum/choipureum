@@ -5,7 +5,7 @@
 
 ![my_video](https://user-images.githubusercontent.com/55127127/121795138-c3d28f00-cc48-11eb-86a5-69ab1be0a93e.gif)
 - Server Developer in MBC(television and radio network companies) 
-- I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.
+- I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 
 <!--
 <div>
