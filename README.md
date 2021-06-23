@@ -97,14 +97,8 @@
 </div>
 
 ## Languages and Tools
+[![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
 
-- Java
-- SQL(ORACLE, MySQL)
-- HTML,CSS,JS(Jquery..etc)
-- Git(형상관리툴)
-- Python
-- React
-- AndroidStudio
 
 <!--
 ## Toy Project
