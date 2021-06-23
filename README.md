@@ -94,7 +94,18 @@
      -->
     
   </table>
-</div>  
+</div>
+
+## Languages and Tools
+
+- Java
+- SQL(ORACLE, MySQL)
+- HTML,CSS,JS(Jquery..etc)
+- Git(형상관리툴)
+- Python
+- React
+- AndroidStudio
+
 <!--
 ## Toy Project
 <div align=left>
@@ -148,16 +159,7 @@
 </div>  
 -->
 
-<!--
-## Languages and Tools
-<!--
-- Java
-- SQL(ORACLE, MySQL)
-- HTML,CSS,JS(Jquery..etc)
-- Git(형상관리툴)
-- Python
-- React
-- AndroidStudio
+
 <!--
 <div float:left>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
