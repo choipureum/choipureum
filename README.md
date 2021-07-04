@@ -44,7 +44,7 @@
 
 </div>
 
-## MBC Project
+## 🎥 MBC Project 
 <div align=left>
   <table>
     <thead>
@@ -84,24 +84,16 @@
       <td>ASP .NET,C#, MSSQL</td>
       <td>홈배너, 다시보기, 푸시알림, 생중계 관리, 관리자 설정</td>
     </tr>
-    <!--
-     <tr>
-      <td><b>MBC [정오의 희망곡]: 차트 관리자 Page</b></td>
-      <td>http://rankingchart.imbc.com/.../.aspx</td>
-      <td>ASP .NET, MSSQL , js, WebForm </td>
-      <td>Flash ImageUpload 대체 및 file 삭제 로직 개선</td>
-    </tr>
-     -->
-    
+  
   </table>
 </div>
 
-## MBC Project
+## 🥇 Challenge
 <div align=left>
   <table>
     <thead>
       <th>Challenge name</th>
-      <th></th>
+      <th>Result</th>
       <th>Stack</th>
       <th>Description</th>
     </thead>
