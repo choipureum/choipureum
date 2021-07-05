@@ -99,7 +99,7 @@
       <th>period</th>
     </thead>
     <tr>
-      <td><b>KakaoPay_Challenge_2021</b></td>
+      <td><a href="https://github.com/choipureum/KakaoPay_2021_Challenge"><b>KakaoPay_Challenge_2021</b></a></td>
       <td></td>
       <td>Spring-boot, JPA-Hibernate, H2, My-SQL, Heroku, java8 </td>
       <td>Mebership RestAPI 서버개발 챌린지</td>
