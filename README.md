@@ -4,9 +4,6 @@
 [![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%91%B8%EB%A6%84-%EC%B5%9C-166848213/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 
-
-
-![my_video](https://user-images.githubusercontent.com/55127127/121795138-c3d28f00-cc48-11eb-86a5-69ab1be0a93e.gif)
 - Server Developer in MBC(television and radio network companies) 
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 
