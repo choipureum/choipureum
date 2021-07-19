@@ -138,7 +138,7 @@
 ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Algorithms 배우는 중입니다.
+## Algorithms 느리지만 .
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poo1994)](https://solved.ac/poo1994/)
 <!--
 ## Toy Project
