@@ -25,14 +25,22 @@
   <li>2021 오픈소스 컨트리뷰션 아카데미 "Azure Functions OpenAPI Extensions"팀 활동(2021.07~2021.12) </li>
 </ul>
 
-<!--
+<p><b>:rocket: PC Web/Mobile App Release</b></p>
+<ul>
+  <li><MBC App TimeLine> MBC Main TimeLine</li>
+  <li><MBC App AdminTool> Push Alarm, HomeBanner, Onair, etc.. setting</li>
+  <li><MBC Archive> System Management</li>
+  <li><MBC와함께> PR page Develop</li>
+</ul>
+
+
+
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
-<!--
 <ul>
  <li>SK SUNNY LeaderGroup 10기 (2014.1~2014.12)</li>
  <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
 </ul>
--->
+
 
 <!--
 ## Get In Touch
