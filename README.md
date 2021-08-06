@@ -27,6 +27,7 @@
 
 <p><b>:rocket: PC Web/Mobile App Release</b></p>
 <ul>
+  [MBC App TimeLine](http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y)
   <li><b>[MBC App TimeLine](http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y)</b> - MBC Main TimeLine</li>
   <li><b>MBC App AdminTool</b> - Push Alarm, HomeBanner, Onair, etc.. setting</li>
   <li><b>[MBC Archive](https://www.mbcarchive.com/include/default.html)</b> - System Management</li>
