@@ -27,13 +27,11 @@
 
 <p><b>:rocket: PC Web/Mobile App Release</b></p>
 <ul>
-  <li><b>[!MBC App TimeLine](http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y)</b> - MBC Main TimeLine</li>
-  <li><b>MBC App AdminTool</b> - Push Alarm, HomeBanner, Onair, etc.. setting</li>
-  <li><b>[!MBC Archive](https://www.mbcarchive.com/include/default.html)</b> - System Management</li>
-  <li><b>[!MBC와함께](http://with.mbc.co.kr/m/pr/photo/index.html)</b> - PR page Develop</li>
+  <li><b><a href="http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y">MBC App TimeLine</a></b> - MBC Main TimeLine</li>
+  <li><b><a>MBC App AdminTool</b> - Push Alarm, HomeBanner, Onair, etc.. setting</li>
+  <li><b><a href="https://www.mbcarchive.com/include/default.html">MBC Archive</a></b> - System Management</li>
+  <li><b><a href="http://with.mbc.co.kr/m/pr/photo/index.html">MBC와함께</a></b> - PR page Develop</li>
 </ul>
-
-
 
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 <ul>
