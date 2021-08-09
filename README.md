@@ -22,7 +22,7 @@
   <li>한양대학교 소프트웨어 융합 캡스톤디자인 경진대회 최우수 (2020.06)</li>
   <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
   <li>2021 오픈소스 컨트리뷰션 아카데미 "Azure Functions OpenAPI Extensions"팀 활동(2021.07~2021.12) </li>
-  <li>DDD 6기- Server 개발 참여 && 활동</li>
+  <li>DDD 6기- Server 개발 참여 && 활동(2021.08 ~ 2021.11)</li>
 </ul>
 
 <p><b>:rocket: PC Web/Mobile App Release</b></p>
