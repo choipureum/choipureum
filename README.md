@@ -7,13 +7,13 @@
 - Server Developer in MBC(television and radio network companies) 
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 
-<!--
+
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
-한양대학교에서 신산업 소프트웨어를 전공했으며 현재 iMBC SW개발 직군에서 재직중입니다.
+한양대학교에서 신산업 소프트웨어를 전공했으며 현재 IMBC SW개발 직군에서 재직중입니다.
 </div>
 <br>
--->
+
 <p><b>:trophy:수상 및 활동이력</b></p>
 <ul>
   <li>IMBC SW개발 직군 재직중(2020.11.02~ )</li>
