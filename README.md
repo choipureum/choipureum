@@ -14,7 +14,7 @@
 </div>
 <br>
 -->
-<p><b>:trophy:Resume</b></p>
+<p><b>:trophy: Resume</b></p>
 <ul>
   <li>IMBC SW개발 직군 재직중(2020.11.02~ )</li>
   <li>한양대학교 신산업 소프트웨어학과 (2013.03~2020.08)</li>
