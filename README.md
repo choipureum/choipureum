@@ -31,6 +31,7 @@
   <li><b><a>MBC App AdminTool</b> - Push Alarm, HomeBanner, Onair, etc.. setting</li>
   <li><b><a href="https://www.mbcarchive.com/include/default.html">MBC Archive</a></b> - System Management</li>
   <li><b><a href="http://with.mbc.co.kr/m/pr/photo/index.html">MBC와함께</a></b> - PR page Develop</li>
+  <li><b><a>MBC Chatbot</b> - 준비중..</li>
 </ul>
 
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
