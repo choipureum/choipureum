@@ -41,57 +41,6 @@
 </ul>
 
 
-<!--
-## Get In Touch
-<div align=left>
- -->
-
-</div>
-<!--
-## 🎥 MBC Project 
-<div align=left>
-  <table>
-    <thead>
-      <th>Project name</th>
-      <th>URL</th>
-      <th>Stack</th>
-      <th>Description</th>
-    </thead>
-    <tr>
-      <td><b>MBC와 함께(mobile): <br>PR page </b></td>
-      <td>http://with.mbc.co.kr/m/index.html<br>
-          http://with.mbc.co.kr/m/pr/notice/index.html<br>
-          http://with.mbc.co.kr/m/pr/press/index.html<br>
-          http://with.mbc.co.kr/m/pr/photo/index.html</td>
-      <td>ASP .NET, MSSQL , js, MVC </td>
-      <td>mbcinfo.imbc.com / Mobile API개발<br>
-          with.mbc.co.kr -> mbcinfo.js , mbcinfoUI.js 개발
-          Photo View Page lazyLoading,
-          Photo List 성능 개선을 위해 ImageResizer를 통한 성능 개선
-      </td>
-    </tr>
-    <tr>
-      <td><b>MBC App</b></td>
-      <td>http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y</td>
-      <td>ASP .NET, MSSQL , Vue.js, html, css </td>
-      <td>main,타임라인,Video Auto 실행, OnAir LiveStreaming(hls), MBC뉴스, 올림픽 정보, 코로나 & 백신접종 현황  </td>
-    </tr>
-    <tr>
-      <td><b>MBC Archives(아카이브)</b></td>
-      <td>https://www.mbcarchive.com/include/default.html</td>
-      <td>ASP .NET, MSSQL , js, WebForm </td>
-      <td>SM & <br>개인정보 암호화, 메일링, 소재주문 엑셀 자동화 모듈, SMS Auth 등</td>
-    </tr>
-     <tr>
-      <td><b>MBC App AdminTool</b></td>
-      <td>http://mbcappcontrol.imbc.com/</td>
-      <td>ASP .NET,C#, MSSQL</td>
-      <td>홈배너, 다시보기, 푸시알림, 생중계 관리, 관리자 설정</td>
-    </tr>
-  
-  </table>
-</div>
-
 ## 🥇 Challenge
 <div align=left>
   <table>
