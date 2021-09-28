@@ -27,7 +27,7 @@
 
 <p><b>:rocket: PC Web/Mobile App Release</b></p>
 <ul>
-  <li><b><a href="http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y">MBC App TimeLine</a></b> - MBC Main TimeLine</li>
+  <li><b><a href="https://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y">MBC App TimeLine</a></b> - MBC Main TimeLine</li>
   <li><b><a>MBC App AdminTool</b> - Push Alarm, HomeBanner, Onair, etc.. setting</li>
   <li><b><a href="https://www.mbcarchive.com/include/default.html">MBC Archive</a></b> - System Management</li>
   <li><b><a href="http://with.mbc.co.kr/m/pr/photo/index.html">MBC와함께</a></b> - PR page Develop</li>
