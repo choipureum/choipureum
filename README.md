@@ -36,7 +36,7 @@
 
 <p><b>:running: 행사 및 발표</b></p>
 <ul>
-  <li>Hacktoberfest 2021 참여 및 4PR Complete</li>
+  <li>Hacktoberfest 2021: 4PR Complete</li>
 </ul>
 
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
