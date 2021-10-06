@@ -34,6 +34,11 @@
   <li><b><a>MBC Chatbot</b> - 준비중..</li>
 </ul>
 
+<p><b>:running: 행사 및 발표</b></p>
+<ul>
+  <li>Hacktoberfest 2021 참여 및 4PR Complete</li>
+</ul>
+
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 <ul>
  <li>SK SUNNY LeaderGroup 10기 (2014.1~2014.12)</li>
