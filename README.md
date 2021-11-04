@@ -27,11 +27,11 @@
 
 <p><b>:rocket: PC Web/Mobile App Release</b></p>
 <ul>
-  <li><b><a href="https://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y">MBC App(Hybrid Webview)</a></b> - MBC Main TimeLine(1차개편), News, 다시보기.. etc(2차개편)</li>
+  <li><b><a href="https://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y">MBC App(Hybrid Webview)</a></b> - MBC Main TimeLine(1차개편), 뉴스, 다시보기.. etc(2차개편)</li>
   <li><b><a>MBC App AdminTool</b> - Push Alarm, HomeBanner, Onair, etc.. setting</li>
   <li><b><a href="https://www.mbcarchive.com/include/default.html">MBC Archive</a></b> - System Management</li>
   <li><b><a href="http://with.mbc.co.kr/m/pr/photo/index.html">MBC와함께</a></b> - PR page Develop</li>
-  <li><b><a>MBC Chatbot</b> - 준비중..</li>
+  <li><b><a>MBC 뉴스</b></li>
 </ul>
 
 <p><b>:running: 행사 및 발표</b></p>
