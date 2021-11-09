@@ -22,6 +22,7 @@
   <li>한양대학교 소프트웨어 융합 캡스톤디자인 경진대회 최우수상 수상🥇(2020.06)</li>
   <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
   <li>2021 오픈소스 컨트리뷰션 아카데미 "Azure Functions OpenAPI Extensions"팀 리드멘티 활동(2021.07~2021.11) <br> - 정보통신산업진흥원장상 수상🥇</li>
+  <li>경북대 지역 스프린트 해커톤 멘토(2021.11.20~2021.11.21)</li>
   <li>DDD 6기- Server 개발 Android 2 team (2021.08 ~) : Madeleine App Release 예정</li>
 </ul>
 
