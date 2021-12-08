@@ -32,7 +32,7 @@
   <li><b><a href="https://www.mbcarchive.com/include/default.html">MBC Archive</a></b> - System Management</li>
   <li><b><a href="http://with.mbc.co.kr/m/pr/photo/index.html">MBC와함께</a></b> - PR page Develop</li>
   <li><b><a>MBC MINI 라디오</a></b> -  서버 및 관리툴 개발 & 유지보수</li>
-  <li><b><a>2022 제 20대 대통령선거 개표 및 홍보 사이트</a></b> - 개발</li>
+  <li><b><a>2021 MBC 연예대상 투표 페이지 개발</a></b> - 개발</li>
 </ul>
 
 <p><b>:running: 행사 및 발표</b></p>
