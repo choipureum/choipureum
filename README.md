@@ -9,12 +9,12 @@
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
 한양대학교에서 신산업 소프트웨어를 전공했으며 현재 IMBC SW개발 직군에서 재직중입니다.
+<a href="https://pooreumsunny.oopy.io">About 최푸름</a>
 </div>
 <br>
 -->
-<p><b>:trophy: Resume</b></p>
-  <a href="https://pooreumsunny.oopy.io">About 최푸름</a>
 <!--
+<p><b>:trophy: Resume</b></p>
 <ul>
   <li>IMBC 웹 개발 직군 재직중(2020.11.02~ )</li>
   <li>한양대학교 신산업 소프트웨어학과 졸업(2013.03~2020.08)</li>
