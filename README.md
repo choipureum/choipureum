@@ -4,12 +4,11 @@
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 - Web Developer in MBC(inc.IMBC)
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
-
+- <a href="https://pooreumsunny.oopy.io">About 최푸름</a>
 <!--
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
 한양대학교에서 신산업 소프트웨어를 전공했으며 현재 IMBC SW개발 직군에서 재직중입니다.
-<a href="https://pooreumsunny.oopy.io">About 최푸름</a>
 </div>
 <br>
 -->
