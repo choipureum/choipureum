@@ -2,7 +2,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
-<img src="https://giphy.com/embed/Yqiw4XZ1LhMRRCL2ZO"/>
+![image](https://giphy.com/embed/Yqiw4XZ1LhMRRCL2ZO")
 - Web Developer in MBC(inc.IMBC)
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
