@@ -12,7 +12,7 @@
 </div>
 <br>
 -->
-
+<!--
 <p><b>:trophy: Resume</b></p>
 <ul>
   <li>IMBC 웹 개발 직군 재직중(2020.11.02~ )</li>
@@ -25,7 +25,8 @@
   <li>경북대 지역 스프린트 해커톤 멘토(2021.11.20~2021.11.21)</li>
   <li>DDD 6기- Server 개발 Android 2 team (2021.08 ~) : Madeleine App Release 예정</li>
 </ul>
-
+-->
+<!--
 <p><b>:rocket: PC Web/Mobile App Release</b></p>
 <ul>
   <li><b><a href="https://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y">MBC App(Hybrid Webview)</a></b> - MBC Main TimeLine(1차개편), 뉴스, 다시보기.. etc(2차개편)</li>
@@ -35,18 +36,20 @@
   <li><b><a>MBC MINI 라디오</a></b> -  서버 및 관리툴 개발 & 유지보수</li>
   <li><b><a href="https://program.imbc.com/Concept/2021ent">2021 MBC 연예대상/연기대상 투표 페이지</a></b> - 개발</li>
 </ul>
-
+-->
+<!--
 <p><b>:running: 행사 및 발표</b></p>
 <ul>
   <li>Hacktoberfest 2021: @Azure, @Microsoft OpenSource 4 PR Complete</li>
 </ul>
-
+-->
+<!--
 <p><b>:airplane:봉사활동 및 해외경험</b></p>
 <ul>
  <li>SK SUNNY LeaderGroup 10기 (2014.1~2014.12)</li>
  <li>호주 워킹홀리데이 (2016.02~2016.09)</li>
 </ul>
-
+-->
 <!--
 ## 🥇 Challenge
 <div align=left>
