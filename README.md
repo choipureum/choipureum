@@ -2,9 +2,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
-
-![image](https://user-images.githubusercontent.com/55127127/146381859-6c14ed7f-6cf2-4ae8-a0bd-c9a724627dd4.png)
-
+<iframe src="https://giphy.com/embed/Yqiw4XZ1LhMRRCL2ZO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-Yqiw4XZ1LhMRRCL2ZO">via GIPHY</a></p>
 - Web Developer in MBC(inc.IMBC)
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
