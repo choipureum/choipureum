@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 
-![image](https://giphy.com/embed/Yqiw4XZ1LhMRRCL2ZO)
+![image](https://user-images.githubusercontent.com/55127127/146382814-62595f90-75a9-48a7-add5-69e0f63acb14.gif)
 - Web Developer in MBC(inc.IMBC)
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
