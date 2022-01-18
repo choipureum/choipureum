@@ -3,11 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 
-- Web Developer in MBC(inc.IMBC)
+- Web Developer in MBC(inc.IMBC) 
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 - Hanyang University Software Department Graduated🎓.
 - OepnSource Contributon 2021 <Azure Function OpenAPI Extensions> Lead mentee.
 - DDD 6th - Server Developer
+- I love FrontEnd Stack ♥
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
