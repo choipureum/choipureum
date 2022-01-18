@@ -5,6 +5,9 @@
 
 - Web Developer in MBC(inc.IMBC)
 - I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
+- Hanyang University Software Department Graduated🎓.
+- OepnSource Contributon 2021 <Azure Function OpenAPI Extensions> Lead mentee.
+- DDD 6th - Server Developer
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
