@@ -4,7 +4,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 
 - Web Developer in MBC(inc.IMBC) 
-- I developing platforms related to the MBC App, MBC Archive, MBC VOD, Olympic, Election.etc
 - Hanyang University Software Department Graduated🎓.
 - OepnSource Contributon 2021 <Azure Function OpenAPI Extensions> Lead mentee.
 - DDD 6th - Server Developer
