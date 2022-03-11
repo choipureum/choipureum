@@ -8,6 +8,7 @@
 - Hanyang University Software Department Graduated🎓.
 - OepnSource Contributon 2021 <Azure Function OpenAPI Extensions> Lead mentee.
 - DDD 6th - Server Developer
+- 디프만 11th - Frontend Developer
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
