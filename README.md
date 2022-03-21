@@ -2,6 +2,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
+<br>
 
 <h3>💼 Job</h3>
 MBC(inc.IMBC) Web developer - 20.11 ~ now 
@@ -12,7 +13,8 @@ MBC(inc.IMBC) Web developer - 20.11 ~ now
 - <a href="https://pooreumsunny.oopy.io/ef026fb4-dbb2-4235-9081-8cb954000134">OepnSource Contributon 2021</a> <Azure Function OpenAPI Extensions> Lead mentee.
 - <a href="https://github.com/DDD-6">DDD 6th</a> - Server Developer
 - <a href="https://github.com/depromeet">디프만 11th</a> - Frontend Developer
-- <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
+
+  - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
