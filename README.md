@@ -5,9 +5,9 @@
 
 - Web Developer in MBC(inc.IMBC) 
 - Hanyang University Software Department Graduated🎓.
-- OepnSource Contributon 2021 <Azure Function OpenAPI Extensions> Lead mentee.
-- DDD 6th - Server Developer
-- 디프만 11th - Frontend Developer
+- <a href="https://pooreumsunny.oopy.io/ef026fb4-dbb2-4235-9081-8cb954000134">OepnSource Contributon 2021</a> <Azure Function OpenAPI Extensions> Lead mentee.
+- <a href="https://github.com/DDD-6">DDD 6th</a> - Server Developer
+- <a href="https://github.com/depromeet">디프만 11th</a> - Frontend Developer
 - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
