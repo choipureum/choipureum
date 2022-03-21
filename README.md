@@ -3,7 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 
-- Web Developer in MBC(inc.IMBC) 
+<h3>💼 Job</h3>
+MBC(inc.IMBC) Web developer - 20.11 ~ now 
+
+---
+
 - Hanyang University Software Department Graduated🎓.
 - <a href="https://pooreumsunny.oopy.io/ef026fb4-dbb2-4235-9081-8cb954000134">OepnSource Contributon 2021</a> <Azure Function OpenAPI Extensions> Lead mentee.
 - <a href="https://github.com/DDD-6">DDD 6th</a> - Server Developer
