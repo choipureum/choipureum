@@ -14,7 +14,9 @@ MBC(inc.IMBC) Web developer - 20.11 ~ now
 - <a href="https://github.com/DDD-6">DDD 6th</a> - Server Developer
 - <a href="https://github.com/depromeet">디프만 11th</a> - Frontend Developer
 
-  - <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
+---
+  
+<a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
 👋 안녕하세요. 서버 개발자 최푸름입니다.:cherry_blossom: <br>
