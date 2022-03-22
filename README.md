@@ -5,7 +5,7 @@
 <br>
 
 <h3>💼 Job</h3>
-MBC(inc.IMBC) Web developer - 20.11 ~ now 
+<b>MBC(inc.IMBC)</b> -  Web developer(20.11 ~ now) 
 
 ---
 
