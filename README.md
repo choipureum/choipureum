@@ -4,18 +4,20 @@
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 <br>
 
-<h3>💼 Career</h3>
-<b>MBC(inc.IMBC)</b> - Web developer(20.11 ~ now) 
+<h2>💼 Job</h2>
+<b><a href="https://www.imbc.com/">MBC(inc.IMBC)</a></b> | Web developer(20.11 ~ now) 
 
----
 
-- 💻Hanyang University Software Department Graduated🎓.
-- <a href="https://pooreumsunny.oopy.io/ef026fb4-dbb2-4235-9081-8cb954000134">OepnSource Contributon 2021</a> <Azure Function OpenAPI Extensions> Lead mentee.
-- <a href="https://github.com/DDD-6">DDD 6th</a> - Server Developer
-- <a href="https://github.com/depromeet">디프만 11th</a> - Frontend Developer
 
----
-  
+<h2>💻 Career</h2>
+
+- Hanyang University Software Department Graduated🎓.
+- <a href="https://github.com/depromeet">디프만 11th</a> | Frontend Developer
+- <a href="https://pooreumsunny.oopy.io/ef026fb4-dbb2-4235-9081-8cb954000134">OepnSource Contributon 2021</a> <Azure Function OpenAPI Extensions> | Lead mentee.
+- <a href="https://github.com/DDD-6">DDD 6th</a> | Server Developer
+
+
+ 
 <a href="https://pooreumsunny.oopy.io">포트폴리오</a>
 <!--
 <div>
