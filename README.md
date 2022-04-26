@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://pooreumsunny.oopy.io)
 <br>
 
-<h3>💼 Carrer</h3>
+<h3>💼 Career</h3>
 <b>MBC(inc.IMBC)</b> - Web developer(20.11 ~ now) 
 
 ---
