@@ -11,7 +11,7 @@
 
 <h2>💻 Career</h2>
 
-- Hanyang University Software Department Graduated🎓.
+- 🏛Hanyang University Software Department Graduated🎓.
 - <a href="https://github.com/depromeet">디프만 11th</a> | Frontend Developer
 - <a href="https://pooreumsunny.oopy.io/ef026fb4-dbb2-4235-9081-8cb954000134">OepnSource Contributon 2021</a> <Azure Function OpenAPI Extensions> | Lead mentee.
 - <a href="https://github.com/DDD-6">DDD 6th</a> | Server Developer
