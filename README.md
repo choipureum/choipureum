@@ -5,6 +5,7 @@
 <br>
 
 <h2>💼 Job</h2>
+<b>@ncsoft</b> | FrontEnd developer(22.6 ~ ing) 
 <b><a href="https://www.imbc.com/">MBC(inc.IMBC)</a></b> | Web developer(20.11 ~ 22.06) 
 
 
