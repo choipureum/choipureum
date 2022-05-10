@@ -5,7 +5,7 @@
 <br>
 
 <h2>💼 Job</h2>
-<b><a href="https://kr.ncsoft.com/kr/index.do">NCSOFT</a></b> | FrontEnd developer(22.6 ~ ing) <br>
+<b><a href="https://kr.ncsoft.com/kr/index.do">NC SOFT</a></b> | FrontEnd developer(22.6 ~ ing) <br>
 <b><a href="https://www.imbc.com/">MBC(inc.IMBC)</a></b> | Web developer(20.11 ~ 22.06) 
 
 
