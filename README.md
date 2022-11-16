@@ -4,7 +4,6 @@
 <!--
 [![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://ten-confidence-178.notion.site/Choi-Pu-Reum-e987869165e74e31905573f2b88613ad)
 -->
-<br>
 
 <h2>💼 Job</h2>
 <a href="https://kr.ncsoft.com/kr/index.do">엔씨소프트</a> | FrontEnd developer(22.6 ~ ing) <br>
