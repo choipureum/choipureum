@@ -18,7 +18,7 @@
 - 🏛 Hanyang University | Software Department Graduated🎓.
 - <a href="https://github.com/DDD-Community">DDD 8th, 9th</a> | FE 운영진 *(21.08 ~ Present)*
 - <a href="https://github.com/depromeet">디프만 11th</a> | FE Developer *(22.03 ~ 22.08)*
-- <a href="https://github.com/Azure/azure-functions-openapi-extension">OepnSource Contributon 2021</a> `Azure Function OpenAPI Extensions` | **Lead mentee** - azure-functions-openapi-extension 팀 *(21.08 ~ 21.12)*
+- <a href="https://github.com/Azure/azure-functions-openapi-extension">OepnSource Contributon 2021</a> `Azure Function OpenAPI Extensions` | **Lead mentee** *(21.08 ~ 21.12)*
 - <a href="https://github.com/DDD-6">DDD 6th</a> | Server Developer *(21.07 ~ 21.12)*
 
 <h2>📀 Etc</h2>
