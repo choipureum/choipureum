@@ -11,14 +11,14 @@
 
 <h2>💼 Job</h2>
 
-<a href="https://kr.ncsoft.com/kr/index.do">엔씨소프트</a> | FrontEnd developer *(22.6 ~ Present)* <br>
+<a href="https://kr.ncsoft.com/kr/index.do">엔씨소프트</a> | Front-end developer *(22.6 ~ Present)* <br>
 <a href="https://www.imbc.com/">MBC(inc.IMBC)</a> | Web developer *(20.11 ~ 22.06)* 
 
 
 <h2>💻 Career</h2>
 
-- <a href="https://github.com/DDD-Community">DDD 8th, 9th</a> | FE 운영진 *(21.08 ~ Present)*
-- <a href="https://github.com/depromeet">디프만 11th</a> | FE Developer *(22.03 ~ 22.08)*
+- <a href="https://github.com/DDD-Community">DDD 8th, 9th</a> | Front-end 운영진 *(21.08 ~ Present)*
+- <a href="https://github.com/depromeet">디프만 11th</a> | Front-end Developer *(22.03 ~ 22.08)*
 - <a href="https://github.com/Azure/azure-functions-openapi-extension">OepnSource Contributon 2021</a> `Azure Function OpenAPI Extensions` | **Lead mentee** *(21.08 ~ 21.12)*
 - <a href="https://github.com/DDD-6">DDD 6th</a> | Server Developer *(21.07 ~ 21.12)*
 
