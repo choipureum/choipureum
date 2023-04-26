@@ -6,6 +6,7 @@
 
 - I'm *Pureum*
 - Working as a **Front-end Engineer**
+- Live in South Korea 🇰🇷 
 
 <h2>💼 Job</h2>
 
