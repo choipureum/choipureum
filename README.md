@@ -6,7 +6,8 @@
 
 - I'm *Pureum*
 - Working as a **Front-end Engineer**
-- Live in South Korea 🇰🇷 
+- Live in South Korea 🇰🇷
+- *Hanyang University* - *Software Department* 🏛️. 
 
 <h2>💼 Job</h2>
 
@@ -16,7 +17,6 @@
 
 <h2>💻 Career</h2>
 
-- 🏛 Hanyang University | Software Department Graduated🎓.
 - <a href="https://github.com/DDD-Community">DDD 8th, 9th</a> | FE 운영진 *(21.08 ~ Present)*
 - <a href="https://github.com/depromeet">디프만 11th</a> | FE Developer *(22.03 ~ 22.08)*
 - <a href="https://github.com/Azure/azure-functions-openapi-extension">OepnSource Contributon 2021</a> `Azure Function OpenAPI Extensions` | **Lead mentee** *(21.08 ~ 21.12)*
