@@ -17,7 +17,7 @@
 
 <h2>💻 Career</h2>
 
-- <a href="https://github.com/DDD-Community">DDD 8th, 9th, 10th</a> | Front-end 운영진 *(21.08 ~ Present)*
+- <a href="https://github.com/DDD-Community">DDD 8th, 9th, 10th</a> | Front-end 운영진 *(21.08 ~ 23.03)*
 - <a href="https://github.com/depromeet">디프만 11th</a> | Front-end Developer *(22.03 ~ 22.08)*
 - <a href="https://github.com/Azure/azure-functions-openapi-extension">OepnSource Contributon 2021</a> `Azure Function OpenAPI Extensions` | **Lead mentee** *(21.08 ~ 21.12)*
 - <a href="https://github.com/DDD-6">DDD 6th</a> | Server Developer *(21.07 ~ 21.12)*
