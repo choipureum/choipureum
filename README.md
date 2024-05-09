@@ -1,6 +1,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://ten-confidence-178.notion.site/Choi-Pu-Reum-e987869165e74e31905573f2b88613ad)
+<!--[![Portfolio Badge](https://img.shields.io/badge/포트폴리오-resume-ff69b4)](https://ten-confidence-178.notion.site/Choi-Pu-Reum-e987869165e74e31905573f2b88613ad)-->
 
 <h2>🐛 Brief</h2>
 
