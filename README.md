@@ -13,7 +13,7 @@
 <h2>💼 Job</h2>
 
 <a href="https://kr.ncsoft.com/kr/index.do">엔씨소프트</a> | Front-end developer *(22.6 ~ Present)*  
-  - 인사이트플랫폼개발팀퍼블리싱 코디네이션실 퍼블리싱개발PD 인사이트플랫폼개발팀 *(24.07 ~ Present)*  
+  - 퍼블리싱개발PD 인사이트플랫폼개발팀 *(24.07 ~ Present)*  
   - User Acquisition 서비스실 마케팅 서비스팀 *(22.06 ~ 24.07)*
 
 <a href="https://www.imbc.com/">MBC(inc.IMBC)</a> | Web developer *(20.11 ~ 22.06)*  
