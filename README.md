@@ -1,8 +1,8 @@
-[![Portfolio Badge](https://img.shields.io/badge/포트폴리오-website-ff69b4)]([https://ten-confidence-178.notion.site/Choi-Pu-Reum-e987869165e74e31905573f2b88613ad](https://www.pureum.site/))
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%91%B8%EB%A6%84-%EC%B5%9C-166848213/)](https://www.linkedin.com/in/%ED%91%B8%EB%A6%84-%EC%B5%9C-166848213/)
 
+Pureum.me - https://www.pureum.site/
 <h2>🐛 Brief</h2>
 
 - I'm *Pureum*
@@ -12,7 +12,7 @@
 
 <h2>💼 Job</h2>
 
-<a href="https://kr.ncsoft.com/kr/index.do">엔씨소프트</a> | Front-end developer *(22.6 ~ Present)*  
+<a href="https://kr.ncsoft.com/kr/index.do">NCSOFT</a> | Front-end developer *(22.6 ~ Present)*  
 <a href="https://www.imbc.com/">MBC(inc.IMBC)</a> | Web developer *(20.11 ~ 22.06)*  
 
 
