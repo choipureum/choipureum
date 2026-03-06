@@ -2,7 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%91%B8%EB%A6%84-%EC%B5%9C-166848213/)](https://www.linkedin.com/in/%ED%91%B8%EB%A6%84-%EC%B5%9C-166848213/)
 
-Pureum.me - https://www.pureum.site/
 <h3>Brief</h3>
 
 - I'm *Pureum*
