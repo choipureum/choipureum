@@ -11,7 +11,7 @@
 
 <h3>Job</h3>
 
-- <a href="https://kr.ncsoft.com/kr/index.do">NCSOFT</a> | Front-end developer *(22.6 ~ Present)*  
+- <a href="https://kr.ncsoft.com/kr/index.do">NC</a> | Front-end developer *(22.6 ~ Present)*  
 - <a href="https://www.imbc.com/">MBC(inc.IMBC)</a> | Web developer *(20.11 ~ 22.06)*  
 
 
